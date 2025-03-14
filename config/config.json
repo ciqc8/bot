@@ -1,8 +1,8 @@
 {
-    "developers": ["<YOUR_DISCORD_ID>"],
+    "developers": ["852802145597521930"],
     "client": {
-        "id": "<DISCORD_BOT_ID>",
-        "token": "<DISCORD_BOT_TOKEN>",
+        "id": "1350235505463132221",
+        "token": "MTM1MDIzNTUwNTQ2MzEzMjIyMQ.Gt14ZR.1KG0Jp5fEFFlGvwcqEX_90uUJ_U4hBtG3UAloE",
         "intents": [
             "Guilds",
             "GuildMessages",
